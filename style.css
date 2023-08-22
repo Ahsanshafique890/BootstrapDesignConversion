@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+    max-width: 100%;
+}
+.icon img {
+    width: 100%;
+}.arrow img {
+    width: 30px;
+}
+.illustration {
+  width:100%;
+}
+.btn-screening {
+  display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.startPara span {
+    display: block;
+    margin-top: 10px;
+}
